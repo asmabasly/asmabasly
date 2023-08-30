@@ -3,7 +3,9 @@ Graduate Student with a bachelor's degree in Computer Science specializing in So
 - Machine Learning
 - Recommendation Systems
 - Computer Vision
-- With my passion for AI and my hands-on experience in these domains, I am eager to contribute my skills and knowledge to real-world projects.
+  
+
+With my passion for AI and my hands-on experience in these domains, I am eager to contribute my skills and knowledge to real-world projects.
 
 linkdin : https://www.linkedin.com/in/asma-basly-301235205/
 <!---
