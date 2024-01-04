@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asmabasly,
-Graduate Student with a bachelor's degree in Computer Science specializing in Software Engineering and Information Systems. I am driven by a deep enthusiasm for Artificial Intelligence. Throughout my academic career, I have gained practical experience in key areas such as
+I'm a first year Software Engineering student. I am driven by a deep enthusiasm for Artificial Intelligence. Throughout my academic career, I have gained practical experience in key areas such as
 - Machine Learning
 - Recommendation Systems
 - Computer Vision
